@@ -1,0 +1,23 @@
+....................Help.....................
+
+Command Usage:
+
+status.......Opens HTOP
+temp.........CPU Tempurature
+mem..........RAM usage
+freq.........Current CPU frequency
+overclock....Open overclocking file
+update.......System update, upgrade and clean
+space........Available disk space
+programs.....List installed programs
+disks........See drives
+aadd.........Edit the bash_aliases file
+ahelp........Display this file
+aedit........Edit this file
+ncycle.......Network cycle
+ninfo........Basic networking info
+int-nscan....LAN network scsan 
+ex-nscan.....Scan for Wifi networks
+ninfo-all....All networking info
+
+..............................................
