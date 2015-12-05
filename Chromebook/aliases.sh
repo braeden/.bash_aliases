@@ -1,5 +1,6 @@
 alias ll='ls -alF'
 alias grades='/home/braeden/grades.sh'
+alias gpa='/home/braeden/grades.sh -g'
 alias la='ls -A'
 alias l='ls -CF'
 alias gitpush='git add -A && git commit -m "commit $(date +%Y %m %d)" && git push -u origin master'
